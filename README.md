@@ -42,7 +42,7 @@ The SQL queries operate on the Gold layer of a Medallion Architecture data wareh
 
 ## Analytics Workflow
 
-> *(Insert your Analytics Workflow diagram here)*
+
 
 ```
 Gold Layer
