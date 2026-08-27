@@ -110,7 +110,7 @@ The analysis makes extensive use of analytical SQL operations, including:
 
 # Query Categories
 
-> *(Insert your Query Categories diagram here)*
+> 
 
 ```
                  SQL Analytics
