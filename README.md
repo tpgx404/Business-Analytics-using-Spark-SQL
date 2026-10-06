@@ -1,4 +1,4 @@
-# Karnataka Workforce SQL Analytics using Databricks
+# Karnataka Workforce SQL Analytics using Databricks 
 
 ## Overview
 
